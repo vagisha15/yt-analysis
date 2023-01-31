@@ -21,3 +21,7 @@ Lambda
 QuickSight
 Cloudwatch
 IAM
+
+# Cloud Architecture
+
+![image](https://user-images.githubusercontent.com/32273709/215856870-5fe361ab-9df6-4b1f-aa54-c130eab3ecf2.png)
